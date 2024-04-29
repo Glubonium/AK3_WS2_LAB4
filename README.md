@@ -1,1 +1,1 @@
-# AK3_WS2_LAB4
+# AK3 Workshop 2
